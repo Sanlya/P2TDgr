@@ -1,0 +1,125 @@
+#D1 {
+    height: 470px;
+    width: 100%;
+    background-image: url("banner.jpg");
+}
+#D2 {
+    height: 60px;
+    width: 100%;
+    background-color: #ff3334;
+}
+#D2 > .row > #R1 {
+    background-color: #fcda1d;
+    height: 60px;
+}
+#D2 > .row > #R2:hover {
+    background-color: #fcda1d;
+    height: 60px;
+}
+#D2 > .row > #R3:hover {
+    background-color: #fcda1d;
+    height: 60px;
+}
+#D2 .row #R1 p{
+    padding-left: 35px;
+    padding-top: 12px;
+}
+
+#D2 .row #R1 p> a {
+    color:rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    text-decoration: none;
+    }
+    #D2 .row #R1 p> a:hover {
+        color:rgb(238, 54, 54);
+        }
+
+    #D2 .row #R2 p{
+        padding-left: 35px;
+        padding-top: 12px;
+    }
+    #D2 .row #R2 p> a {
+        color:rgb(255, 255, 255);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18pt;
+        text-decoration: none;
+        }
+        #D2 .row #R2 p> a:hover {
+            color:rgb(238, 54, 54);
+            }
+        #D2 .row #R3 p{
+            padding-left: 35px;
+            padding-top: 12px;
+        }
+        #D2 .row #R3 p> a {
+            color:rgb(255, 255, 255);
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 18pt;
+            text-decoration: none;
+            }
+            #D2 .row #R3 p> a:hover {
+                color:rgb(238, 54, 54);
+                }
+#D3{
+    height: 250px;
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 200px;
+    
+}
+#D3 h{
+    -webkit-background-clip: text;
+	background-clip: text;
+	background-image: url('banner.jpg');
+	color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: bold;
+}
+#D4 {
+    height: 580px;
+    width: 100%;
+    background-color: #4790f0;
+}
+#D5b {
+    height: 150px;
+}
+#D5{
+    height: 240px;
+    background-color: #ff3334;
+     padding-top: 15px;
+     padding-left: 70px;
+}
+	#D5 .row div ul li {
+	list-style-type: none;
+	}
+	#D5 .row div ul li h1 {
+	 color: white;
+ 	 padding-left: 30px;
+	
+	}
+
+	#D5 .row div ul li h4 {
+	font-style: italic;
+	margin-left: -20px;
+ 				}
+	#D5 .row div ul li h {
+	color: white;
+ 				}
+  
+#b1 ul {
+  padding-top: 82px;
+  padding-left: 100px;
+}    
+#b1 ul li a{
+color: white;
+}
+#D7{
+    height: 8px;
+    background-color: #4790f0;
+}
+#D8{
+    height: 25px;
+    background-color: #ff3334;
+}
