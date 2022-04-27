@@ -24,6 +24,10 @@
     padding-left: 35px;
     padding-top: 12px;
 }
+ iframe {
+    height: 580px;
+    width: 100%;
+} 
 
 #D2 .row #R1 p> a {
     color:rgb(2, 2, 2);
@@ -65,7 +69,7 @@
     height: 250px;
     width: 100%;
     padding-top: 30px;
-    padding-left: 200px;
+    padding-left: 230px;
     
 }
 #D3 h{
