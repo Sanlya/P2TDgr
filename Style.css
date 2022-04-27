@@ -1,3 +1,6 @@
+body{
+    background-color:#201c1c    ;
+}
 #D1 {
     height: 470px;
     width: 100%;
@@ -84,7 +87,6 @@
 #D4 {
     height: 580px;
     width: 100%;
-    background-color: #4790f0;
 }
 #D5b {
     height: 150px;
@@ -126,7 +128,4 @@ color: white;
 #D8{
     height: 25px;
     background-color: #ff3334;
-}
-body {
-b
 }
